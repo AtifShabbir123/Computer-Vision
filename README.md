@@ -10,7 +10,7 @@ The `Files` folder contains the `images.py` Python script. The script uses the O
 
 ## Images
 
-The `Images` folder contains two sample images. The images are used to test the Python OpenCV script and demonstrate how images can be loaded and displayed using OpenCV.
+The `Images` folder contains two sample images. These are images of baboon and mountain. The images are used to test the Python OpenCV script and demonstrate how images can be loaded and displayed using OpenCV.
 
 ## Requirements
 
